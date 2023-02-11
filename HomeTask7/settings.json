@@ -1,0 +1,33 @@
+"files.autoSave":  "onFocusChange",
+"editor.formatOnPaste": true,
+"editor.formatOnSave": true,
+"editor.formatOnType": true,
+"workbench.editor.enablePreview": false,
+"workbench.startupEditor": "none",
+"security.workspace.trust.untrusted Files": "open",
+"liveServer.settings.donotShowInfoMsg": true,
+"window.zoomLevel": -1,
+"editor.fontLigatures": false,
+"editor.tabSize": 3,
+"editor.wordWrap": "on",
+"terminal.integrated. fontSize": 18,
+"editor.guides.bracketPairs": true,
+"workbench.iconTheme": "vscode-icons",
+"editor.smoothScrolling": true,
+"editor.minimap.enabled": false,
+"liveSassCompile.settings.formats": [
+{
+"format": "expanded",
+"extensionName": ".css",
+"savePath": "/css",
+"savePathReplacement Pairs": null
+}
+],
+"liveSassCompile.settings.generateMap": false,
+"workbench.colorTheme": "Kimbie Dark",
+"auto-rename-tag.activationOn Language": [
+"*"
+],
+"editor.fontSize": 20,
+"liveSassCompile.settings.includeItems": [
+]

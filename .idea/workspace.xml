@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d79877de-8d0f-4915-a704-2cd100f0109e" name="Changes" comment="sass" />
+    <list default="true" id="d79877de-8d0f-4915-a704-2cd100f0109e" name="Changes" comment="sass">
+      <change afterPath="$PROJECT_DIR$/HomeTask7/sass/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeTask7/sass/_config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeTask7/sass/_mobile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeTask7/sass/_utilites.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeTask7/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeTask7/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeTask7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HomeTask7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeTask7/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HomeTask7/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,11 +42,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/SS/JS/angular",
+    "last_opened_file_path": "D:/Front End for schoolchildren level 2/HomeTask7/HomeTask7/SCSS",
+    "list.type.of.created.stylesheet": "SCSS",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Front End for schoolchildren level 2\HomeTask7\HomeTask7\SCSS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Front End for schoolchildren level 2\HomeTask7\HomeTask7" />
+      <recent name="D:\Front End for schoolchildren level 2\HomeTask7\HomeTask7\SCSS" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676064843796</updated>
-      <workItem from="1676064845934" duration="648000" />
+      <workItem from="1676064845934" duration="1986000" />
+      <workItem from="1676092175558" duration="4780000" />
     </task>
     <task id="LOCAL-00001" summary="sass">
       <created>1676065495106</created>
@@ -46,11 +76,30 @@
       <option name="project" value="LOCAL" />
       <updated>1676065495106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sass">
+      <created>1676065590380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676065590380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sass">
+      <created>1676065664304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676065664304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/npm/node_modules/fastest-levenshtein/test.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
